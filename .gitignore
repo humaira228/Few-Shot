@@ -1,0 +1,45 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.bbl
+*.blg
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / large files
+data/
+*.tar.gz
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
