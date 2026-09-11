@@ -1,4 +1,4 @@
-# Few-Shot Learning Thesis
+# Few-Shot Learning Design Project
 
 Thesis source code and report.
 
