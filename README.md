@@ -1,6 +1,6 @@
 # Few-Shot Learning Thesis
 
-Bachelor's thesis source code and report.
+Thesis source code and report.
 
 ## Structure
 - `report/` — LaTeX source and figures
